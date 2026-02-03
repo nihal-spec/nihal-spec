@@ -48,11 +48,10 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nihal-spec&show_icons=true&theme=radical&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=nihal-spec&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nihal-spec&show_icons=true&theme=radical&hide_border=true" height="180" />
+  <img src="https://streak-stats.demolab.com?user=nihal-spec&theme=radical&hide_border=true" height="180" />
 </p>
 
----
 
 ## 📈 Contribution Graph
 
