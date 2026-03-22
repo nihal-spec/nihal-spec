@@ -36,7 +36,7 @@
 ## 📌 Featured Projects
 
 ### 🔹 SkillXchange – Skill Sharing Platform
-🚀 Live: https://anihub-six.vercel.app/
+🚀 Live: https://skillxchange-now.vercel.app/
 
 ### 🔹 AniHub – Anime Explorer
 🚀 Live: https://anihub-six.vercel.app/  
