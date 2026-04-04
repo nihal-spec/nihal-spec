@@ -38,6 +38,10 @@
 ### 🔹 SkillXchange – Skill Sharing Platform
 🚀 Live: https://skillxchange-now.vercel.app/
 
+### 🔹 AI-Powered E-Commerce Chatbot
+🚀 Live: https://shop-chatbot.vercel.app/
+📦 Repo: https://github.com/nihal-spec/shop-chatbot
+
 ### 🔹 AniHub – Anime Explorer
 🚀 Live: https://anihub-six.vercel.app/  
 📦 Repo: https://github.com/nihal-spec/anihub  
